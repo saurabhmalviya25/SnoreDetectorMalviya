@@ -1,4 +1,5 @@
 # SnoreDetectorMalviya
+# while sleeping, audio only above a threshold will be detected. 
 
 ![screenshot_2017-10-10-15-35-56 1](https://user-images.githubusercontent.com/30982806/31381421-531f0aa6-ad69-11e7-8b0d-dd66d8fcb2cf.png)
 ![screenshot_2017-10-10-15-35-56](https://user-images.githubusercontent.com/30982806/31381422-5398e2d6-ad69-11e7-8d59-9ea51d0e096f.png)
